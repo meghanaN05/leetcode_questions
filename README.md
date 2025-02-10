@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/meghanaN05/leetcode_questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
