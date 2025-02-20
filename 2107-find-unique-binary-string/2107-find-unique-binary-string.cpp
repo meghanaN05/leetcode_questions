@@ -2,14 +2,21 @@ class Solution {
 public:
     string findDifferentBinaryString(vector<string>& nums) {
         unordered_set<string> s(nums.begin(), nums.end());
-        int n = nums.size();
-        
-        for (int i = 0; i < (1 << n); i++) { 
-            string binary = bitset<16>(i).to_string().substr(16 - n);
-            if (!s.count(binary)) {
-                return binary;
-            }
+        string curr;
+        return generateBinaryString(nums.size(), s, curr);
+    }
+    
+    string generateBinaryString(int n, unordered_set<string>& set, string& curr) {
+        if (curr.size() == n) {
+            return set.count(curr) ? "" : curr;
         }
+        curr.push_back('0');
+        string res = generateBinaryString(n, set, curr);
+        if (!res.empty()) return res;
+        curr.back() = '1';
+        res = generateBinaryString(n, set, curr);
+        if (!res.empty()) return res;
+        curr.pop_back();
         return "";
     }
 };
