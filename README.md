@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/meghanaN05/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/meghanaN05/leetcode_questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/meghanaN05/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/meghanaN05/leetcode_questions/tree/master/1876-map-of-highest-peak) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/meghanaN05/leetcode_questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -153,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
