@@ -1,36 +1,29 @@
-#include <unordered_map>
+#include <unordered_set>
 #include <vector>
 using namespace std;
 
 class Solution {
 public:
     int lenLongestFibSubseq(vector<int>& arr) {
-        int n = arr.size();
-        unordered_map<int, int> index;  
-        unordered_map<int, int> dp;  
-        
-        for (int i = 0; i < n; i++) {
-            index[arr[i]] = i;  
-        }
-
+        unordered_set<int> set(arr.begin(), arr.end()); 
         int maxLength = 0;
+        int n = arr.size();
         
-        for (int j = 0; j < n; j++) {
-            for (int i = 0; i < j; i++) {
-                int prev = arr[j] - arr[i];  
+        for (int i = 0; i < n - 1; i++) {
+            for (int j = i + 1; j < n; j++) {
+                int a = arr[i], b = arr[j], len = 2;  
+
                 
-                if (prev < arr[i] && index.find(prev) != index.end()) {
-                    int k = index[prev]; 
-                    int length = dp[k * n + i] + 1;  
-                    
-                    dp[i * n + j] = length;
-                    maxLength = max(maxLength, length);
-                } else {
-                    dp[i * n + j] = 2;  
+                while (set.find(a + b) != set.end()) {
+                    int next = a + b;
+                    a = b;
+                    b = next;
+                    len++;
+                    maxLength = max(maxLength, len);
                 }
             }
         }
 
-        return maxLength > 2 ? maxLength : 0;   
+        return maxLength > 2 ? maxLength : 0; 
     }
 };
