@@ -1,51 +1,27 @@
 class Solution {
 public:
-    bool check(string s){
-        int n=s.size();
-        
-        if(n==1){
-            return true;
+   vector<string>ip;
+   bool isokay(string s){
+    int number =stoi(s);
+    string actual=to_string(number);
+    return (s==actual && number<=255);
+   }
+   void backtrack(int index,int sections,string &s,string current){
+    if(index==s.size() || sections==4){
+        current.pop_back();
+    
+    if(index==s.size() && sections==4)
+        ip.push_back(current);
+        return;}
+    for(int len=1;len<=3;len++){
+        if(len+index<=s.size() && isokay(s.substr(index,len))){
+            backtrack(index+len,sections+1,s,current+s.substr(index,len)+".");
         }
-        
-        if(n>3||s[0]=='0'){
-            return false;
-        }
-     
-        int val=stoi(s);
-        if(val>255){
-            return false;
-        }
-      
-        return true;
     }
+
+   }
     vector<string> restoreIpAddresses(string s) {
-        int n=s.size();
-       
-        vector<string>ans;
-       
-        if(n>12){
-            return ans;
-        }
-       
-        
-        for(int i=1;i<=3;i++){
-            for(int j=1;j<=3;j++){
-                for(int k=1;k<=3;k++){
-                    
-                    if(i+j+k<n&&i+j+k+3>=n){
-                        
-                        string a=s.substr(0,i);
-                        string b=s.substr(i,j);
-                        string c=s.substr(j+i,k);
-                        string d=s.substr(i+j+k);
-                       
-                        if(check(a)&&check(b)&&check(c)&&check(d)){
-                            ans.push_back(a+"."+b+"."+c+"."+d);
-                        }
-                    }
-                }
-            }
-        }
-        return ans;
+         backtrack(0,0,s,"");
+         return ip;
     }
 };
