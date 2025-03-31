@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/meghanaN05/leetcode_questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/meghanaN05/leetcode_questions/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
