@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/meghanaN05/leetcode_questions/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/meghanaN05/leetcode_questions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0125-valid-palindrome) |
