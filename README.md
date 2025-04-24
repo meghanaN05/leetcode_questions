@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/meghanaN05/leetcode_questions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/meghanaN05/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0090-subsets-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/meghanaN05/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/meghanaN05/leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
