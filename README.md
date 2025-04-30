@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/meghanaN05/leetcode_questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/meghanaN05/leetcode_questions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/meghanaN05/leetcode_questions/tree/master/0085-maximal-rectangle) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/meghanaN05/leetcode_questions/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/meghanaN05/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/meghanaN05/leetcode_questions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
