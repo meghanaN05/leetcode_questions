@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
+| [0372-super-pow](https://github.com/meghanaN05/leetcode_questions/tree/master/0372-super-pow) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0372-super-pow](https://github.com/meghanaN05/leetcode_questions/tree/master/0372-super-pow) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Enumeration
 |  |
