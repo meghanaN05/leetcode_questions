@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/meghanaN05/leetcode_questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/meghanaN05/leetcode_questions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/meghanaN05/leetcode_questions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/meghanaN05/leetcode_questions/tree/master/0085-maximal-rectangle) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/meghanaN05/leetcode_questions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0205-isomorphic-strings) |
