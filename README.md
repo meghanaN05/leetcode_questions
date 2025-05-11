@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
