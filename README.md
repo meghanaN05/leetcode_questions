@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/meghanaN05/leetcode_questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2998-count-symmetric-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/meghanaN05/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
