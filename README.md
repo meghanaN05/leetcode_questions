@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/meghanaN05/leetcode_questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/meghanaN05/leetcode_questions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meghanaN05/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/meghanaN05/leetcode_questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/meghanaN05/leetcode_questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
