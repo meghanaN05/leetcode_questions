@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/meghanaN05/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/meghanaN05/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
