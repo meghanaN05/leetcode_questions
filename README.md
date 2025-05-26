@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/meghanaN05/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/meghanaN05/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/meghanaN05/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/meghanaN05/leetcode_questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/meghanaN05/leetcode_questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/meghanaN05/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/meghanaN05/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/meghanaN05/leetcode_questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sorting
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/meghanaN05/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/meghanaN05/leetcode_questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -488,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Greedy
 |  |
 | ------- |
