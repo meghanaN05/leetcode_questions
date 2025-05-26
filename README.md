@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/meghanaN05/leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0306-additive-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/0316-remove-duplicate-letters) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/meghanaN05/leetcode_questions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/meghanaN05/leetcode_questions/tree/master/0131-palindrome-partitioning) |
+| [0306-additive-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0306-additive-number) |
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
