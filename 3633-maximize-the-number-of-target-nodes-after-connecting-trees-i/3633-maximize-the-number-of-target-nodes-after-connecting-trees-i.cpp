@@ -1,69 +1,52 @@
 class Solution {
 public:
 
-    int bfs(int curr, unordered_map<int, vector<int>>& adj, int d, int N) {
+    int DFS(int node, int par, int dist, vector<vector<int>>& edge){
+        if(dist < 0){
+            return 0;
+        }
 
-        queue<pair<int, int>> que;
-        que.push({curr, 0});
-        vector<bool> visited(N, false);
-        visited[curr] = true;
+        int cr = 1;
 
-        int count = 0; 
-        while(!que.empty()) {
-            int currNode = que.front().first;
-            int dist = que.front().second;
-            que.pop();
-
-            if(dist > d) {
-                continue;
+        for(auto adj : edge[node]){
+            if(adj != par){
+                cr += DFS(adj, node, dist-1, edge);
             }
-
-            count++; 
-            for(auto &ngbr : adj[currNode]) {
-                if(!visited[ngbr]) {
-                    visited[ngbr] = true;
-                    que.push({ngbr, dist+1});
-                }
-            }
-
         }
 
-        return count;
+        return cr;
     }
-
-    vector<int> findCount(vector<vector<int>>& edges, int d) {
-        int N = edges.size()+1;
-
-       
-        unordered_map<int, vector<int>> adj;
-        for(auto& edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-            adj[u].push_back(v);
-            adj[v].push_back(u);
-        }
-
-        vector<int> result(N);
-        for(int i = 0; i < N; i++) {
-            result[i] = bfs(i, adj, d, N);
-        }
-
-        return result;
-    }
-
-    vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2, int k) {
     
-        int N = edges1.size() + 1;
-
-        vector<int> result1 = findCount(edges1, k); 
-        vector<int> result2 = findCount(edges2, k-1); 
-
-        int maxTargetNodesCount = *max_element(begin(result2), end(result2));
+    vector<int> maxTargetNodes(vector<vector<int>>& e1, vector<vector<int>>& e2, int k) {
+        int n = e1.size()+1;
+        int m = e2.size()+1;
         
-        for(int i = 0; i < result1.size(); i++) {
-            result1[i] += maxTargetNodesCount;
+        vector<vector<int>> edge1(n);
+        vector<vector<int>> edge2(m);
+
+        for(int i=0; i<n-1; i++){
+            edge1[e1[i][0]].push_back(e1[i][1]);
+            edge1[e1[i][1]].push_back(e1[i][0]);
         }
 
-        return result1;
+        for(int i=0; i<m-1; i++){
+            edge2[e2[i][0]].push_back(e2[i][1]);
+            edge2[e2[i][1]].push_back(e2[i][0]);
+        }
+
+        int mxIn2 = 0;
+        for(int i=0; i<m; i++){
+            int ifInode = DFS(i,-1,k-1,edge2);
+            mxIn2 = max(mxIn2, ifInode);
+        }
+
+        vector<int> ans(n);
+
+        for(int i=0; i<n; i++){
+            int cur = DFS(i,-1,k,edge1);
+            ans[i] = cur + mxIn2;
+        }
+
+        return ans;
     }
 };
