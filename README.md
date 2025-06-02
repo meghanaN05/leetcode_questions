@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/meghanaN05/leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/meghanaN05/leetcode_questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meghanaN05/leetcode_questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0152-maximum-product-subarray) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/meghanaN05/leetcode_questions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/0316-remove-duplicate-letters) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/meghanaN05/leetcode_questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
