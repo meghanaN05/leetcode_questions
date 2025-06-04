@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/meghanaN05/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/meghanaN05/leetcode_questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search Tree
 |  |
