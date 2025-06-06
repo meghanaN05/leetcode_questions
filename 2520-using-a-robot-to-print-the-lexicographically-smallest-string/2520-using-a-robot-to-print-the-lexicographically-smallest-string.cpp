@@ -2,36 +2,38 @@ class Solution {
 public:
     string robotWithString(string s) {
         int n = s.length();
-        vector<int> freq(26, 0);
-        for (char c : s) freq[c - 'a']++;
 
-        string result;
-        stack<char> st;
-        char min_char = 'a';
+        vector<char> minCharToRight(n); //you can store index of those characters instead of storing characters
 
-        for (int i = 0; i < n; ++i) {
-            char c = s[i];
-            st.push(c);
-            freq[c - 'a']--;
-
- 
-            while (min_char <= 'z' && freq[min_char - 'a'] == 0) {
-                min_char++;
-            }
-
-    
-            while (!st.empty() && st.top() <= min_char) {
-                result += st.top();
-                st.pop();
-            }
+        minCharToRight[n-1] = s[n-1];
+        for(int i = n-2; i >= 0; i--) {
+            minCharToRight[i] = min(s[i], minCharToRight[i+1]);
         }
 
-   
-        while (!st.empty()) {
-            result += st.top();
-            st.pop();
+
+        string t = "";
+        string paper = "";
+
+        int i = 0; 
+        while(i < n) {
+            t.push_back(s[i]);
+
+            char minChar = (i+1 < n) ? minCharToRight[i+1] : s[i];
+
+            while(!t.empty() && t.back() <= minChar) {
+                paper += t.back();
+                t.pop_back();
+            }
+
+            i++;
         }
 
-        return result;
+        //fill the remaining characters
+        while(!t.empty()) {
+            paper += t.back();
+            t.pop_back();
+        }
+
+        return paper;
     }
 };
