@@ -1,32 +1,62 @@
 class Solution {
 public:
-char DFSarray(unordered_map<int,vector<char>>&a,char &ch,vector<int>&visited){
-    visited[ch-'a']=1;
-    char minchar=ch;
-    for(char &v:a[ch]){
-        if(visited[v-'a']==0){
-            minchar=min(minchar,DFSarray(a,v,visited));
+    char BFSarray(unordered_map<char, vector<char>>& a, char ch) {
+        vector<int> visited(26, 0);
+        queue<char> q;
+        q.push(ch);
+        visited[ch - 'a'] = 1;
+        char minchar = ch;
+
+        while (!q.empty()) {
+            char curr = q.front();
+            q.pop();
+            minchar = min(minchar, curr);
+            for (char neighbor : a[curr]) {
+                if (!visited[neighbor - 'a']) {
+                    visited[neighbor - 'a'] = 1;
+                    q.push(neighbor);
+                }
+            }
         }
+
+        return minchar;
     }
-    return minchar;
-    }
+
     string smallestEquivalentString(string s1, string s2, string baseStr) {
-        int n=s1.size();
-        int m=baseStr.size();
-        unordered_map<int,vector<char>>a;
-        for(int i=0;i<n;i++){
-            char u=s1[i];
-            char v=s2[i];
-            a[u].push_back(v);
-             a[v].push_back(u);
+        unordered_map<char, vector<char>> a;
+
+        for (int i = 0; i < s1.size(); ++i) {
+            a[s1[i]].push_back(s2[i]);
+            a[s2[i]].push_back(s1[i]);
         }
+
         string result;
-        for(int i=0;i<m;i++){
-            char ch=baseStr[i];
-            vector<int>visited(26,0);
-            char minchar=DFSarray(a,ch,visited);
-            result.push_back(minchar);
+        vector<char> minCharMap(26, 0);
+
+        for (char ch : baseStr) {
+            if (minCharMap[ch - 'a'] == 0) {
+                char minch = BFSarray(a, ch);
+                vector<int> visited(26, 0);
+                queue<char> q;
+                q.push(ch);
+                visited[ch - 'a'] = 1;
+                minCharMap[ch - 'a'] = minch;
+
+                while (!q.empty()) {
+                    char curr = q.front();
+                    q.pop();
+                    minCharMap[curr - 'a'] = minch;
+                    for (char neighbor : a[curr]) {
+                        if (!visited[neighbor - 'a']) {
+                            visited[neighbor - 'a'] = 1;
+                            q.push(neighbor);
+                        }
+                    }
+                }
+            }
+            result.push_back(minCharMap[ch - 'a']);
         }
+
         return result;
     }
 };
