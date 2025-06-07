@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/meghanaN05/leetcode_questions/tree/master/0485-max-consecutive-ones) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/meghanaN05/leetcode_questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/meghanaN05/leetcode_questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/meghanaN05/leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
