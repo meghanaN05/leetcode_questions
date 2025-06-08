@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
+| [0386-lexicographical-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0386-lexicographical-numbers) |
 | [0820-find-eventual-safe-states](https://github.com/meghanaN05/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
@@ -688,4 +689,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/meghanaN05/leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
