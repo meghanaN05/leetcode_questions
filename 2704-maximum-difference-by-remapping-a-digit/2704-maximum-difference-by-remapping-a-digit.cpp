@@ -1,33 +1,19 @@
 class Solution {
 public:
     int minMaxDifference(int num) {
-        string s = to_string(num);
         
-       
-        string max_s = s;
-        char to_replace_max = ' ';
-        for (char c : s) {
-            if (c != '9') {
-                to_replace_max = c;
-                break;
-            }
-        }
-        if (to_replace_max != ' ') {
-            for (char& c : max_s) {
-                if (c == to_replace_max) c = '9';
-            }
-        }
-        
-       
-        string min_s = s;
-        char to_replace_min = s[0]; 
-        for (char& c : min_s) {
-            if (c == to_replace_min) c = '0';
+        string str1 = to_string(num);
+        string str2 = str1;
+
+        int idx = str1.find_first_not_of('9');
+        if(idx != string::npos) {
+            char ch = str1[idx];
+            replace(begin(str1), end(str1), ch, '9');
         }
 
-        int max_val = stoi(max_s);
-        int min_val = stoi(min_s);
-
-        return max_val - min_val;
+       char ch = str2[0];
+        replace(begin(str2), end(str2), ch, '0');
+        return stoi(str1) - stoi(str2);
     }
 };
+   
