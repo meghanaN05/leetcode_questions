@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/meghanaN05/leetcode_questions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/meghanaN05/leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/meghanaN05/leetcode_questions/tree/master/0945-snakes-and-ladders) |
+| [0966-binary-subarrays-with-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/0983-validate-stack-sequences) |
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/meghanaN05/leetcode_questions/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
+| [0966-binary-subarrays-with-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/meghanaN05/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/meghanaN05/leetcode_questions/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
