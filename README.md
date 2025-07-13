@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/0316-remove-duplicate-letters) |
 | [0415-add-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/meghanaN05/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/meghanaN05/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/meghanaN05/leetcode_questions/tree/master/0940-fruit-into-baskets) |
