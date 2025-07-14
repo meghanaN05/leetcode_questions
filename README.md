@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -814,4 +815,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/meghanaN05/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/meghanaN05/leetcode_questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
