@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/meghanaN05/leetcode_questions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/meghanaN05/leetcode_questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/meghanaN05/leetcode_questions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/meghanaN05/leetcode_questions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0125-valid-palindrome) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/meghanaN05/leetcode_questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0202-happy-number) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/meghanaN05/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
