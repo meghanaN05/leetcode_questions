@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/meghanaN05/leetcode_questions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/meghanaN05/leetcode_questions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/meghanaN05/leetcode_questions/tree/master/0066-plus-one) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/meghanaN05/leetcode_questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/meghanaN05/leetcode_questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/meghanaN05/leetcode_questions/tree/master/0066-plus-one) |
