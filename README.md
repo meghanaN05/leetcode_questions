@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/meghanaN05/leetcode_questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghanaN05/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/meghanaN05/leetcode_questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghanaN05/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Simulation
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/meghanaN05/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/meghanaN05/leetcode_questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghanaN05/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
