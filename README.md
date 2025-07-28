@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0386-lexicographical-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/meghanaN05/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/meghanaN05/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/meghanaN05/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Combinatorics
