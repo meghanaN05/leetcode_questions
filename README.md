@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/meghanaN05/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghanaN05/leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2530-minimize-maximum-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghanaN05/leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/meghanaN05/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/meghanaN05/leetcode_questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghanaN05/leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2530-minimize-maximum-of-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/meghanaN05/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghanaN05/leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
