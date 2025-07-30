@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3379-score-of-a-string) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/meghanaN05/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2551-apply-operations-to-an-array) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/meghanaN05/leetcode_questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/meghanaN05/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2530-minimize-maximum-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2530-minimize-maximum-of-array) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/meghanaN05/leetcode_questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
