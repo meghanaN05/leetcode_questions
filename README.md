@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/meghanaN05/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0306-additive-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/0316-remove-duplicate-letters) |
+| [0392-is-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/meghanaN05/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/meghanaN05/leetcode_questions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/meghanaN05/leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0392-is-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
