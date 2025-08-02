@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/meghanaN05/leetcode_questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/meghanaN05/leetcode_questions/tree/master/0342-power-of-four) |
 | [0473-matchsticks-to-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/meghanaN05/leetcode_questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0792-binary-search) |
