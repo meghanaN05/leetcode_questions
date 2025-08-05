@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/meghanaN05/leetcode_questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghanaN05/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-minimize-maximum-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2530-minimize-maximum-of-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -887,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
