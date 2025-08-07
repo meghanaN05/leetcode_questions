@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/meghanaN05/leetcode_questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghanaN05/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
 |  |
 | ------- |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
 | ------- |
