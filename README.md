@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/meghanaN05/leetcode_questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/meghanaN05/leetcode_questions/tree/master/2727-number-of-senior-citizens) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/meghanaN05/leetcode_questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/meghanaN05/leetcode_questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghanaN05/leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
