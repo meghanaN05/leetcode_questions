@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/meghanaN05/leetcode_questions/tree/master/2048-build-array-from-permutation) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/meghanaN05/leetcode_questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2050-count-good-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2050-count-good-numbers) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/meghanaN05/leetcode_questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
