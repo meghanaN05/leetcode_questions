@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/meghanaN05/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2448-count-number-of-bad-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/meghanaN05/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/meghanaN05/leetcode_questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/meghanaN05/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/meghanaN05/leetcode_questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghanaN05/leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
