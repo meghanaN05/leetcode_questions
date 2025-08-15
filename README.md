@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/meghanaN05/leetcode_questions/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
+| [0747-min-cost-climbing-stairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/meghanaN05/leetcode_questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
