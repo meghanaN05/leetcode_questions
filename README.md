@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/meghanaN05/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0473-matchsticks-to-square) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/meghanaN05/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/meghanaN05/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0948-sort-an-array) |
