@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/meghanaN05/leetcode_questions/tree/master/1656-count-good-triplets) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/meghanaN05/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/meghanaN05/leetcode_questions/tree/master/1833-find-the-highest-altitude) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/meghanaN05/leetcode_questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/meghanaN05/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/meghanaN05/leetcode_questions/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
