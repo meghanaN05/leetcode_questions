@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/meghanaN05/leetcode_questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/meghanaN05/leetcode_questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/meghanaN05/leetcode_questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3778-transform-array-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/3778-transform-array-by-parity) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Graph
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/meghanaN05/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
+| [3778-transform-array-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
