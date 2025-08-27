@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/meghanaN05/leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
@@ -867,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/meghanaN05/leetcode_questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
