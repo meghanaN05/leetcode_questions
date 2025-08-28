@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/meghanaN05/leetcode_questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/meghanaN05/leetcode_questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meghanaN05/leetcode_questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/3321-type-of-triangle) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/meghanaN05/leetcode_questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/meghanaN05/leetcode_questions/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meghanaN05/leetcode_questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
