@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/meghanaN05/leetcode_questions/tree/master/3396-valid-word) |
+| [3412-permutation-difference-between-two-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/meghanaN05/leetcode_questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/meghanaN05/leetcode_questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
+| [3412-permutation-difference-between-two-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/meghanaN05/leetcode_questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/meghanaN05/leetcode_questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meghanaN05/leetcode_questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
