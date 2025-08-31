@@ -1,15 +1,12 @@
 class Solution {
     bool check(vector<vector<char>>& board,int r, int c, char ch){
-        //check for present row
+
         for(int i=0;i<9;i++){
             if(board[r][i] == ch)return false;
         }
-        //check in present column
         for(int i=0;i<9;i++){
             if(board[i][c] == ch)return false;
         }
-
-        //checking for 3*3 grid
         int r1= r - (r%3);
         int c1= c- (c%3);
         for(int i=r1;i<r1+3;i++){
