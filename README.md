@@ -982,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/meghanaN05/leetcode_questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/meghanaN05/leetcode_questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/meghanaN05/leetcode_questions/tree/master/0326-power-of-three) |
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Bucket Sort
