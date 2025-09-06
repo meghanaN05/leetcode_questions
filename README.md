@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/meghanaN05/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/meghanaN05/leetcode_questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/meghanaN05/leetcode_questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/3778-transform-array-by-parity) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/meghanaN05/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/meghanaN05/leetcode_questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/meghanaN05/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Two Pointers
 |  |
 | ------- |
