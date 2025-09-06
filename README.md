@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/meghanaN05/leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meghanaN05/leetcode_questions/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/meghanaN05/leetcode_questions/tree/master/0372-super-pow) |
+| [0390-elimination-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/meghanaN05/leetcode_questions/tree/master/0795-k-th-symbol-in-grammar) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/meghanaN05/leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meghanaN05/leetcode_questions/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/meghanaN05/leetcode_questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1013-fibonacci-number) |
