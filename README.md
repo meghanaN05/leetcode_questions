@@ -792,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/meghanaN05/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/meghanaN05/leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/meghanaN05/leetcode_questions/tree/master/0480-sliding-window-median) |
@@ -1130,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/meghanaN05/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/meghanaN05/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Queue
@@ -1231,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/meghanaN05/leetcode_questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/meghanaN05/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/meghanaN05/leetcode_questions/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/0206-reverse-linked-list) |
