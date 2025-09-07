@@ -1035,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/meghanaN05/leetcode_questions/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/meghanaN05/leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/meghanaN05/leetcode_questions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
@@ -1234,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/meghanaN05/leetcode_questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/meghanaN05/leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/meghanaN05/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/meghanaN05/leetcode_questions/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0203-remove-linked-list-elements) |
