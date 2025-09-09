@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/meghanaN05/leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/meghanaN05/leetcode_questions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/meghanaN05/leetcode_questions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/meghanaN05/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/meghanaN05/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/meghanaN05/leetcode_questions/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/meghanaN05/leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/meghanaN05/leetcode_questions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/meghanaN05/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/meghanaN05/leetcode_questions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
