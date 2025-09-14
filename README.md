@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/meghanaN05/leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/meghanaN05/leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/meghanaN05/leetcode_questions/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0747-min-cost-climbing-stairs) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/meghanaN05/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/meghanaN05/leetcode_questions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0697-degree-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/meghanaN05/leetcode_questions/tree/master/0822-unique-morse-code-words) |
