@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/meghanaN05/leetcode_questions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/meghanaN05/leetcode_questions/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/meghanaN05/leetcode_questions/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/meghanaN05/leetcode_questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2812-find-the-maximum-achievable-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2812-find-the-maximum-achievable-number) |
@@ -1059,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/meghanaN05/leetcode_questions/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/meghanaN05/leetcode_questions/tree/master/2507-number-of-common-factors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -1236,6 +1238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2507-number-of-common-factors](https://github.com/meghanaN05/leetcode_questions/tree/master/2507-number-of-common-factors) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3201-distribute-candies-among-children-ii) |
