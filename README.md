@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2107-find-unique-binary-string) |
+| [2117-find-original-array-from-doubled-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1829-maximum-units-on-a-truck](https://github.com/meghanaN05/leetcode_questions/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2117-find-original-array-from-doubled-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/meghanaN05/leetcode_questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -797,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2107-find-unique-binary-string) |
+| [2117-find-original-array-from-doubled-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/meghanaN05/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/meghanaN05/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1178,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/meghanaN05/leetcode_questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2117-find-original-array-from-doubled-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/meghanaN05/leetcode_questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/meghanaN05/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
