@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/meghanaN05/leetcode_questions/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4008-restore-finishing-order](https://github.com/meghanaN05/leetcode_questions/tree/master/4008-restore-finishing-order) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/meghanaN05/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [4008-restore-finishing-order](https://github.com/meghanaN05/leetcode_questions/tree/master/4008-restore-finishing-order) |
 ## Simulation
 |  |
 | ------- |
