@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-nth-magical-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/1018-largest-perimeter-triangle) |
+| [1086-divisor-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1036,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/meghanaN05/leetcode_questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
@@ -1428,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [1086-divisor-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
 |  |
@@ -1494,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1086-divisor-game) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
