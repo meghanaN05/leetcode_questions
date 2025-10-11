@@ -1,15 +1,20 @@
 class Solution {
 public:
+int n;
+int K;
+int solve(vector<int>& energy, int i,vector<int>&t){
+    if(i>=n) return 0;
+    if(t[i]!=INT_MIN) return t[i];
+    return t[i]=energy[i]+solve(energy,i+K,t);
+
+}
     int maximumEnergy(vector<int>& energy, int k) {
-        int n=energy.size();
+        n=energy.size();
+        K=k;
         int ans=INT_MIN;
-        for(int i=n-k;i<n;i++){
-            int sum=0;
-            for(int j=i;j>=0;j-=k){
-                sum+=energy[j];
-                ans=max(ans,sum);
-            }
-        }
+        vector<int>t(n,INT_MIN);
+        for(int i=0;i<n;i++)
+        ans=max(ans,solve(energy,i,t));
         return ans;
     }
 };
