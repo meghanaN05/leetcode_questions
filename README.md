@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/meghanaN05/leetcode_questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/meghanaN05/leetcode_questions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/meghanaN05/leetcode_questions/tree/master/1073-number-of-enclaves) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/meghanaN05/leetcode_questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1137-height-checker](https://github.com/meghanaN05/leetcode_questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1217-relative-sort-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/meghanaN05/leetcode_questions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/meghanaN05/leetcode_questions/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/meghanaN05/leetcode_questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/meghanaN05/leetcode_questions/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/meghanaN05/leetcode_questions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/meghanaN05/leetcode_questions/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/meghanaN05/leetcode_questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/meghanaN05/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/meghanaN05/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1073-number-of-enclaves](https://github.com/meghanaN05/leetcode_questions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/meghanaN05/leetcode_questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/meghanaN05/leetcode_questions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/meghanaN05/leetcode_questions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/meghanaN05/leetcode_questions/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
