@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/meghanaN05/leetcode_questions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/meghanaN05/leetcode_questions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/meghanaN05/leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/meghanaN05/leetcode_questions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/meghanaN05/leetcode_questions/tree/master/0575-distribute-candies) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/meghanaN05/leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/meghanaN05/leetcode_questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/meghanaN05/leetcode_questions/tree/master/0733-flood-fill) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/meghanaN05/leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/meghanaN05/leetcode_questions/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/meghanaN05/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
@@ -1057,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/meghanaN05/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0542-01-matrix) |
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0747-min-cost-climbing-stairs) |
