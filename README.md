@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/meghanaN05/leetcode_questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/meghanaN05/leetcode_questions/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/meghanaN05/leetcode_questions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/meghanaN05/leetcode_questions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/meghanaN05/leetcode_questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0165-compare-version-numbers) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/meghanaN05/leetcode_questions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/meghanaN05/leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
