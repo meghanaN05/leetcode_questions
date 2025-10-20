@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/meghanaN05/leetcode_questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/meghanaN05/leetcode_questions/tree/master/3797-design-spreadsheet) |
+| [3811-reverse-degree-of-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3811-reverse-degree-of-a-string) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/meghanaN05/leetcode_questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3811-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
