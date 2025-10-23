@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/meghanaN05/leetcode_questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/meghanaN05/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/meghanaN05/leetcode_questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2429-design-a-food-rating-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
