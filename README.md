@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/meghanaN05/leetcode_questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/meghanaN05/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/meghanaN05/leetcode_questions/tree/master/0282-expression-add-operators) |
@@ -1543,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/1764-maximum-repeating-substring) |
 ## Bitmask
@@ -1619,4 +1621,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/meghanaN05/leetcode_questions/tree/master/0173-binary-search-tree-iterator) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
