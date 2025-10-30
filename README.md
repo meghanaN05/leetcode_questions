@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/meghanaN05/leetcode_questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/meghanaN05/leetcode_questions/tree/master/1656-count-good-triplets) |
@@ -1085,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/0983-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1764-maximum-repeating-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/1764-maximum-repeating-substring) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/meghanaN05/leetcode_questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1387,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/meghanaN05/leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1512,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
