@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4008-restore-finishing-order](https://github.com/meghanaN05/leetcode_questions/tree/master/4008-restore-finishing-order) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3811-reverse-degree-of-a-string) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Design
 |  |
 | ------- |
