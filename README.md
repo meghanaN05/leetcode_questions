@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/meghanaN05/leetcode_questions/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/meghanaN05/leetcode_questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/meghanaN05/leetcode_questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/meghanaN05/leetcode_questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/meghanaN05/leetcode_questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3311-ant-on-the-boundary](https://github.com/meghanaN05/leetcode_questions/tree/master/3311-ant-on-the-boundary) |
