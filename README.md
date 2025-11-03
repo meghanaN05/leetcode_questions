@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/meghanaN05/leetcode_questions/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/3799-unique-3-digit-even-numbers) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/meghanaN05/leetcode_questions/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4008-restore-finishing-order](https://github.com/meghanaN05/leetcode_questions/tree/master/4008-restore-finishing-order) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/meghanaN05/leetcode_questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/meghanaN05/leetcode_questions/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Topological Sort
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/meghanaN05/leetcode_questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/meghanaN05/leetcode_questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/meghanaN05/leetcode_questions/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 ## Sorting
 |  |
 | ------- |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/meghanaN05/leetcode_questions/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
@@ -1179,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/meghanaN05/leetcode_questions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/meghanaN05/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/meghanaN05/leetcode_questions/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
@@ -1602,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3826-maximum-profit-from-valid-topological-order-in-dag](https://github.com/meghanaN05/leetcode_questions/tree/master/3826-maximum-profit-from-valid-topological-order-in-dag) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Trie
 |  |
