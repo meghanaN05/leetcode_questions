@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/meghanaN05/leetcode_questions/tree/master/0907-koko-eating-bananas) |
+| [0932-monotonic-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/meghanaN05/leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/meghanaN05/leetcode_questions/tree/master/0945-snakes-and-ladders) |
