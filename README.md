@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
+| [0979-di-string-match](https://github.com/meghanaN05/leetcode_questions/tree/master/0979-di-string-match) |
 | [0983-validate-stack-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/0983-validate-stack-sequences) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/meghanaN05/leetcode_questions/tree/master/1006-vowel-spellchecker) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/meghanaN05/leetcode_questions/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
 | [0953-reverse-only-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/0953-reverse-only-letters) |
+| [0979-di-string-match](https://github.com/meghanaN05/leetcode_questions/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/meghanaN05/leetcode_questions/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1044-find-common-characters) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0958-sort-array-by-parity-ii) |
+| [0979-di-string-match](https://github.com/meghanaN05/leetcode_questions/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1439,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/meghanaN05/leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
+| [0979-di-string-match](https://github.com/meghanaN05/leetcode_questions/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/meghanaN05/leetcode_questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1341-split-a-string-in-balanced-strings) |
