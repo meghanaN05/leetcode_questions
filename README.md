@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/meghanaN05/leetcode_questions/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/meghanaN05/leetcode_questions/tree/master/2727-number-of-senior-citizens) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/meghanaN05/leetcode_questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/meghanaN05/leetcode_questions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/meghanaN05/leetcode_questions/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/meghanaN05/leetcode_questions/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/meghanaN05/leetcode_questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/meghanaN05/leetcode_questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-maximum-achievable-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -1334,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/meghanaN05/leetcode_questions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/meghanaN05/leetcode_questions/tree/master/2507-number-of-common-factors) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/meghanaN05/leetcode_questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
