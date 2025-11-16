@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/meghanaN05/leetcode_questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/meghanaN05/leetcode_questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/meghanaN05/leetcode_questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/meghanaN05/leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1217-relative-sort-array) |
 | [1306-minimum-absolute-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/meghanaN05/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/meghanaN05/leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/meghanaN05/leetcode_questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1455,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/meghanaN05/leetcode_questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/meghanaN05/leetcode_questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/meghanaN05/leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
