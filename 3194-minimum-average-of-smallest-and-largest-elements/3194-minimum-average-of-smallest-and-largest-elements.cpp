@@ -1,19 +1,15 @@
 class Solution {
 public:
     double minimumAverage(vector<int>& nums) {
-        int n=nums.size();
-        vector<double>average;
-        int cnt=0;
-        while(cnt<n/2){
-            cnt++;
-            sort(nums.begin(),nums.end());
-              double first=nums[0];
-              double end=nums[nums.size()-1];
-              nums.erase(nums.begin());
-              nums.pop_back();
-              average.push_back((first+end)/2.0);
+        sort(nums.begin(), nums.end());
+        int l = 0, r = nums.size() - 1;
+        double ans = 1e18; 
+        while (l < r) {
+            double avg = (nums[l] + nums[r]) / 2.0;
+            ans = min(ans, avg);
+            l++;
+            r--;
         }
-        sort(average.begin(),average.end());
-        return average[0];
+        return ans;
     }
 };
