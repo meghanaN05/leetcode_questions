@@ -765,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/meghanaN05/leetcode_questions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/meghanaN05/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/meghanaN05/leetcode_questions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
