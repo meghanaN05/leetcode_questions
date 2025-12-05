@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/meghanaN05/leetcode_questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/meghanaN05/leetcode_questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/meghanaN05/leetcode_questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/meghanaN05/leetcode_questions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/meghanaN05/leetcode_questions/tree/master/2714-left-and-right-sum-differences) |
 | [2915-count-of-interesting-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/meghanaN05/leetcode_questions/tree/master/3311-ant-on-the-boundary) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3639-zero-array-transformation-i) |
