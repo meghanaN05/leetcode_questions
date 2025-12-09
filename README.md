@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meghanaN05/leetcode_questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/meghanaN05/leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/meghanaN05/leetcode_questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-count-special-triplets](https://github.com/meghanaN05/leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1072,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/meghanaN05/leetcode_questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/meghanaN05/leetcode_questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meghanaN05/leetcode_questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/meghanaN05/leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
