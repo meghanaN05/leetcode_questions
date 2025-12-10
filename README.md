@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/meghanaN05/leetcode_questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -1069,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/meghanaN05/leetcode_questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/meghanaN05/leetcode_questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
