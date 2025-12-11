@@ -1,24 +1,19 @@
 class Solution {
 public:
     vector<int> selfDividingNumbers(int left, int right) {
-        vector<int>ans;
-        for(int i=left;i<=right;i++){
-            int number=i;
-            int flag=true;
-            while(number>0){
-                int rem=number%10;
-                if(rem==0){
-                    flag=false;
-                    break;
-                }
-                if( rem!=0 && i%rem!=0){
-                    flag=false;
-                    break;
-                }
-                number=number/10;
-            }
-         if(flag)   ans.push_back(i);
+        vector<int> ans;
+        for (int i = left; i <= right; i++) {
+            if (isDivisible(i)) ans.push_back(i);
         }
         return ans;
+    }
+    bool isDivisible(int x) {
+        int num = x;
+        while (num) {
+            int digit = num % 10;
+            if (digit == 0 || x % digit != 0) return false;  
+            num /= 10;
+        }
+        return true;
     }
 };
