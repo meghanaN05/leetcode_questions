@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/meghanaN05/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghanaN05/leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2530-minimize-maximum-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2530-minimize-maximum-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/meghanaN05/leetcode_questions/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/meghanaN05/leetcode_questions/tree/master/2507-number-of-common-factors) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/meghanaN05/leetcode_questions/tree/master/2556-convert-the-temperature) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/meghanaN05/leetcode_questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/meghanaN05/leetcode_questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
