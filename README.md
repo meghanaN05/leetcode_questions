@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/meghanaN05/leetcode_questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/meghanaN05/leetcode_questions/tree/master/1642-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/meghanaN05/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/meghanaN05/leetcode_questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/meghanaN05/leetcode_questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -1108,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
 | [0983-validate-stack-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/meghanaN05/leetcode_questions/tree/master/1642-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/meghanaN05/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1803-average-waiting-time](https://github.com/meghanaN05/leetcode_questions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
