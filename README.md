@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [0728-self-dividing-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/meghanaN05/leetcode_questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0910-nth-magical-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0910-nth-magical-number) |
