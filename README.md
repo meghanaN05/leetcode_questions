@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/meghanaN05/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/meghanaN05/leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2048-build-array-from-permutation](https://github.com/meghanaN05/leetcode_questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2102-find-the-middle-index-in-array) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1829-maximum-units-on-a-truck](https://github.com/meghanaN05/leetcode_questions/tree/master/1829-maximum-units-on-a-truck) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/meghanaN05/leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2117-find-original-array-from-doubled-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -1570,6 +1572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/meghanaN05/leetcode_questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/meghanaN05/leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2117-find-original-array-from-doubled-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -1809,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/meghanaN05/leetcode_questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/meghanaN05/leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Geometry
 |  |
 | ------- |
