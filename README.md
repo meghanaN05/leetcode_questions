@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/meghanaN05/leetcode_questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/meghanaN05/leetcode_questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-maximum-achievable-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2812-find-the-maximum-achievable-number) |
+| [2864-maximum-odd-binary-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2864-maximum-odd-binary-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/meghanaN05/leetcode_questions/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2864-maximum-odd-binary-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-find-words-containing-character) |
@@ -1590,6 +1592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/meghanaN05/leetcode_questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2864-maximum-odd-binary-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2864-maximum-odd-binary-number) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/meghanaN05/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
