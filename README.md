@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/meghanaN05/leetcode_questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/meghanaN05/leetcode_questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1585,6 +1586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2530-minimize-maximum-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2530-minimize-maximum-of-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/meghanaN05/leetcode_questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/2816-lexicographically-smallest-palindrome) |
