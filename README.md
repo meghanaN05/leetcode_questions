@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
+| [1030-matrix-cells-in-distance-order](https://github.com/meghanaN05/leetcode_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1034-subarrays-with-k-different-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/meghanaN05/leetcode_questions/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1044-find-common-characters) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/meghanaN05/leetcode_questions/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0967-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
+| [1030-matrix-cells-in-distance-order](https://github.com/meghanaN05/leetcode_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1036-rotting-oranges](https://github.com/meghanaN05/leetcode_questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/meghanaN05/leetcode_questions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-matrix-cells-in-distance-order](https://github.com/meghanaN05/leetcode_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1137-height-checker](https://github.com/meghanaN05/leetcode_questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1217-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/meghanaN05/leetcode_questions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/meghanaN05/leetcode_questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/1018-largest-perimeter-triangle) |
+| [1030-matrix-cells-in-distance-order](https://github.com/meghanaN05/leetcode_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1086-divisor-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -1808,6 +1812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/meghanaN05/leetcode_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3623-count-number-of-trapezoids-i) |
