@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/meghanaN05/leetcode_questions/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2915-count-of-interesting-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/meghanaN05/leetcode_questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/meghanaN05/leetcode_questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghanaN05/leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/meghanaN05/leetcode_questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/meghanaN05/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1106,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/meghanaN05/leetcode_questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/meghanaN05/leetcode_questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1647,6 +1650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1792,6 +1796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/meghanaN05/leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/meghanaN05/leetcode_questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Linked List
 |  |
 | ------- |
