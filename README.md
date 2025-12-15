@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2107-find-unique-binary-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/meghanaN05/leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2117-find-original-array-from-doubled-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/meghanaN05/leetcode_questions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/meghanaN05/leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1304,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/meghanaN05/leetcode_questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/meghanaN05/leetcode_questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/meghanaN05/leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
