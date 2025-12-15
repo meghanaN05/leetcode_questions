@@ -1,12 +1,9 @@
 class Solution {
 public:
     bool divideArray(vector<int>& nums) {
-        unordered_map<int,int>mp;
-        for(int i=0;i<nums.size();i++){
-            mp[nums[i]]++;
-        }
-        for(auto it:mp){
-            if(it.second%2!=0) return false;
+        sort(nums.begin(),nums.end());
+        for(int i=0;i<nums.size()-1;i+=2){
+          if(nums[i]!=nums[i+1]) return false;
         }
         return true;
     }
