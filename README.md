@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/meghanaN05/leetcode_questions/tree/master/2507-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/meghanaN05/leetcode_questions/tree/master/2556-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/meghanaN05/leetcode_questions/tree/master/2652-sum-multiples) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/meghanaN05/leetcode_questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/meghanaN05/leetcode_questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-maximum-achievable-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2812-find-the-maximum-achievable-number) |
