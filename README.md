@@ -804,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/meghanaN05/leetcode_questions/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1143-longest-common-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1205-defanging-an-ip-address](https://github.com/meghanaN05/leetcode_questions/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/meghanaN05/leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1320,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/meghanaN05/leetcode_questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1143-longest-common-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/meghanaN05/leetcode_questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
