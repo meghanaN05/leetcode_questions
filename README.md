@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/meghanaN05/leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/meghanaN05/leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/meghanaN05/leetcode_questions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/meghanaN05/leetcode_questions/tree/master/0506-relative-ranks) |
@@ -1240,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
@@ -1513,6 +1515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/meghanaN05/leetcode_questions/tree/master/0794-swim-in-rising-water) |
@@ -1695,6 +1698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/meghanaN05/leetcode_questions/tree/master/0372-super-pow) |
+| [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Enumeration
@@ -1754,10 +1758,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3791-fruits-into-baskets-iii) |
@@ -1766,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/meghanaN05/leetcode_questions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/meghanaN05/leetcode_questions/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0948-sort-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Queue
