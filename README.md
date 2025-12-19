@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/meghanaN05/leetcode_questions/tree/master/0907-koko-eating-bananas) |
+| [0908-smallest-range-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0908-smallest-range-i) |
 | [0932-monotonic-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/meghanaN05/leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/0941-sort-array-by-parity) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0728-self-dividing-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/meghanaN05/leetcode_questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
+| [0908-smallest-range-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0908-smallest-range-i) |
 | [0910-nth-magical-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/meghanaN05/leetcode_questions/tree/master/1015-smallest-integer-divisible-by-k) |
