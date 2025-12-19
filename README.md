@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/meghanaN05/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/meghanaN05/leetcode_questions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/meghanaN05/leetcode_questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/meghanaN05/leetcode_questions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/meghanaN05/leetcode_questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/meghanaN05/leetcode_questions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1814,6 +1816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0214-shortest-palindrome) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/meghanaN05/leetcode_questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1524-string-matching-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/1764-maximum-repeating-substring) |
 ## Bitmask
