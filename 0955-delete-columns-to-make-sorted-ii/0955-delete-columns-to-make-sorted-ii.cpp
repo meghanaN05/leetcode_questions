@@ -5,8 +5,6 @@ public:
         int c=strs[0].size();
         int d=0;
         vector<int>srt(r,false);
-        int i=0;
-        int j=0;
         for(int j=0;j<c;j++){
             bool deleted=0;
             for(int i=0;i<r-1;i++){
