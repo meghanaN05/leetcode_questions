@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/meghanaN05/leetcode_questions/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2102-find-the-middle-index-in-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/meghanaN05/leetcode_questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2107-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/meghanaN05/leetcode_questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1326,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/meghanaN05/leetcode_questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/meghanaN05/leetcode_questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2211-count-collisions-on-a-road](https://github.com/meghanaN05/leetcode_questions/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1826,6 +1828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/meghanaN05/leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/meghanaN05/leetcode_questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/meghanaN05/leetcode_questions/tree/master/2104-sum-of-subarray-ranges) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/meghanaN05/leetcode_questions/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Binary Indexed Tree
 |  |
