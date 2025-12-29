@@ -829,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/meghanaN05/leetcode_questions/tree/master/0709-to-lower-case) |
+| [0756-pyramid-transition-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/meghanaN05/leetcode_questions/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0824-number-of-lines-to-write-string) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0306-additive-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0306-additive-number) |
 | [0473-matchsticks-to-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
+| [0756-pyramid-transition-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0756-pyramid-transition-matrix) |
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/meghanaN05/leetcode_questions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0756-pyramid-transition-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0756-pyramid-transition-matrix) |
 | [0795-k-th-symbol-in-grammar](https://github.com/meghanaN05/leetcode_questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
@@ -1108,6 +1111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/meghanaN05/leetcode_questions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meghanaN05/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0697-degree-of-an-array) |
+| [0756-pyramid-transition-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0756-pyramid-transition-matrix) |
 | [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/meghanaN05/leetcode_questions/tree/master/0822-unique-morse-code-words) |
