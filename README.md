@@ -1396,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/meghanaN05/leetcode_questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
