@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/meghanaN05/leetcode_questions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/meghanaN05/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/meghanaN05/leetcode_questions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/meghanaN05/leetcode_questions/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/meghanaN05/leetcode_questions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/meghanaN05/leetcode_questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -1710,6 +1712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/meghanaN05/leetcode_questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/meghanaN05/leetcode_questions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [1975-maximum-matrix-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1975-maximum-matrix-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/meghanaN05/leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2117-find-original-array-from-doubled-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
