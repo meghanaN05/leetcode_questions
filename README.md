@@ -850,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/meghanaN05/leetcode_questions/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/meghanaN05/leetcode_questions/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/meghanaN05/leetcode_questions/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0824-number-of-lines-to-write-string) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meghanaN05/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/meghanaN05/leetcode_questions/tree/master/0763-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/meghanaN05/leetcode_questions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
@@ -1136,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meghanaN05/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0697-degree-of-an-array) |
 | [0756-pyramid-transition-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0756-pyramid-transition-matrix) |
+| [0763-partition-labels](https://github.com/meghanaN05/leetcode_questions/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/meghanaN05/leetcode_questions/tree/master/0822-unique-morse-code-words) |
@@ -1700,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/meghanaN05/leetcode_questions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/meghanaN05/leetcode_questions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-partition-labels](https://github.com/meghanaN05/leetcode_questions/tree/master/0763-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/meghanaN05/leetcode_questions/tree/master/0876-hand-of-straights) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
