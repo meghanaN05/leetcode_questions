@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/meghanaN05/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3311-ant-on-the-boundary](https://github.com/meghanaN05/leetcode_questions/tree/master/3311-ant-on-the-boundary) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/3321-type-of-triangle) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3429-special-array-i) |
@@ -1031,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/meghanaN05/leetcode_questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/meghanaN05/leetcode_questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/3676-smallest-number-with-all-set-bits) |
