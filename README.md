@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/meghanaN05/leetcode_questions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/meghanaN05/leetcode_questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/meghanaN05/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/meghanaN05/leetcode_questions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/meghanaN05/leetcode_questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/meghanaN05/leetcode_questions/tree/master/2491-smallest-even-multiple) |
@@ -1214,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/meghanaN05/leetcode_questions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
