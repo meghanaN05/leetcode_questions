@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2317-maximum-xor-after-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/2317-maximum-xor-after-operations) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/meghanaN05/leetcode_questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2317-maximum-xor-after-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/2317-maximum-xor-after-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/2383-add-two-integers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1034,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/meghanaN05/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/meghanaN05/leetcode_questions/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2317-maximum-xor-after-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/2317-maximum-xor-after-operations) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/meghanaN05/leetcode_questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
