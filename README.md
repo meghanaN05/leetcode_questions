@@ -718,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/meghanaN05/leetcode_questions/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/meghanaN05/leetcode_questions/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0390-elimination-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/meghanaN05/leetcode_questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/meghanaN05/leetcode_questions/tree/master/0492-construct-the-rectangle) |
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/meghanaN05/leetcode_questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/meghanaN05/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/meghanaN05/leetcode_questions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/meghanaN05/leetcode_questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0473-matchsticks-to-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/meghanaN05/leetcode_questions/tree/master/0476-number-complement) |
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
