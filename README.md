@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/meghanaN05/leetcode_questions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/meghanaN05/leetcode_questions/tree/master/0724-find-pivot-index) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/meghanaN05/leetcode_questions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/meghanaN05/leetcode_questions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/meghanaN05/leetcode_questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0876-hand-of-straights](https://github.com/meghanaN05/leetcode_questions/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/0941-sort-array-by-parity) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meghanaN05/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/meghanaN05/leetcode_questions/tree/master/0763-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/meghanaN05/leetcode_questions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
@@ -1335,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/meghanaN05/leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/meghanaN05/leetcode_questions/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/meghanaN05/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/meghanaN05/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0948-sort-an-array) |
@@ -1663,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/meghanaN05/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -1817,6 +1822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/meghanaN05/leetcode_questions/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/meghanaN05/leetcode_questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
