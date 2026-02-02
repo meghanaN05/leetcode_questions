@@ -1243,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/meghanaN05/leetcode_questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/meghanaN05/leetcode_questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/meghanaN05/leetcode_questions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2336-smallest-number-in-infinite-set](https://github.com/meghanaN05/leetcode_questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/meghanaN05/leetcode_questions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -1342,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
+| [2336-smallest-number-in-infinite-set](https://github.com/meghanaN05/leetcode_questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 | [3797-design-spreadsheet](https://github.com/meghanaN05/leetcode_questions/tree/master/3797-design-spreadsheet) |
@@ -1373,6 +1375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/meghanaN05/leetcode_questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2336-smallest-number-in-infinite-set](https://github.com/meghanaN05/leetcode_questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1391,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/meghanaN05/leetcode_questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
