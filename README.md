@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/meghanaN05/leetcode_questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/meghanaN05/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/meghanaN05/leetcode_questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -1258,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/meghanaN05/leetcode_questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/meghanaN05/leetcode_questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -1380,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/meghanaN05/leetcode_questions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/meghanaN05/leetcode_questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1873,6 +1876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
