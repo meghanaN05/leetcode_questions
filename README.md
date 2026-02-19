@@ -905,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/meghanaN05/leetcode_questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
+| [0696-count-binary-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/meghanaN05/leetcode_questions/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0756-pyramid-transition-matrix) |
@@ -1134,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/meghanaN05/leetcode_questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/meghanaN05/leetcode_questions/tree/master/0763-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/meghanaN05/leetcode_questions/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
