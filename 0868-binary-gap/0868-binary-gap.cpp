@@ -1,17 +1,18 @@
 class Solution {
 public:
     int binaryGap(int n) {
-        int gap = 0;
-        string s = bitset<32>(n).to_string();
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '1') {              
-                for (int j = i + 1; j < s.size(); j++) {
-                    if (s[j] == '1') {
-                        gap = max(gap, j - i);  
-                        break;                
-                    }
-                }
-            }
+       int pos=0;
+       int gap=0;
+       int last=-1;
+       while(n > 0){
+       if(n & 1){
+       if(last != -1){
+       gap = max(gap, pos - last);
+        }
+       last = pos;
+        }
+        n >>= 1;
+        pos++;
         }
         return gap;
     }
