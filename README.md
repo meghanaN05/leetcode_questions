@@ -940,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/meghanaN05/leetcode_questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/meghanaN05/leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1524-string-matching-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/meghanaN05/leetcode_questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -1079,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/meghanaN05/leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1610-xor-operation-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1839-decode-xored-array) |
@@ -1245,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/meghanaN05/leetcode_questions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/meghanaN05/leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/meghanaN05/leetcode_questions/tree/master/1590-make-sum-divisible-by-p) |
@@ -2194,11 +2197,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0214-shortest-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/meghanaN05/leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/meghanaN05/leetcode_questions/tree/master/0535-encode-and-decode-tinyurl) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/meghanaN05/leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Line Sweep
 |  |
 | ------- |
