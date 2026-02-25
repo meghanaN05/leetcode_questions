@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/meghanaN05/leetcode_questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/meghanaN05/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/meghanaN05/leetcode_questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-minimum-absolute-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/meghanaN05/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/meghanaN05/leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
 | [0868-binary-gap](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-binary-gap) |
 | [1022-unique-paths-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-unique-paths-iii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/meghanaN05/leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
