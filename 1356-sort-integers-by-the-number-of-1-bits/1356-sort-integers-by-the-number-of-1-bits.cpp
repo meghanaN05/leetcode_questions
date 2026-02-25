@@ -1,12 +1,12 @@
 class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
-        sort(arr.begin(), arr.end(), [&](int a, int b){
-            int c1 = __builtin_popcount(a);
-            int c2 = __builtin_popcount(b);
-            if (c1 == c2) return a < b;
-            return c1 < c2;
+        sort(arr.begin(),arr.end(),[&](int a,int b){
+            int c=__builtin_popcount(a);
+            int d=__builtin_popcount(b);
+            if(c==d) return a<b;
+            return c<d;
         });
-        return arr;
+      return arr;
     }
 };
