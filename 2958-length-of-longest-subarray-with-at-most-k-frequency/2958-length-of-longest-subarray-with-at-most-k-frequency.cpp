@@ -8,8 +8,6 @@ public:
             mp[nums[i]]++;
             while(mp[nums[i]]>k){
                 mp[nums[l]]--;
-                if(mp[nums[l]]==0)
-                mp.erase(nums[l]);
                 l++;
             }
             maxi=max(maxi,i-l+1);
