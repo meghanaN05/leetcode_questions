@@ -802,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/meghanaN05/leetcode_questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1610-xor-operation-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1610-xor-operation-in-an-array) |
+| [1622-fancy-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/meghanaN05/leetcode_questions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1416,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/meghanaN05/leetcode_questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/meghanaN05/leetcode_questions/tree/master/0901-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1622-fancy-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/meghanaN05/leetcode_questions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -2102,6 +2104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
+| [1622-fancy-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3721-longest-balanced-subarray-ii) |
