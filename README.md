@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/meghanaN05/leetcode_questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/meghanaN05/leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/meghanaN05/leetcode_questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/meghanaN05/leetcode_questions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/meghanaN05/leetcode_questions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/meghanaN05/leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0542-01-matrix) |
@@ -1550,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/meghanaN05/leetcode_questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/meghanaN05/leetcode_questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/meghanaN05/leetcode_questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0410-split-array-largest-sum) |
