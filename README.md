@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/meghanaN05/leetcode_questions/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/meghanaN05/leetcode_questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/meghanaN05/leetcode_questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/meghanaN05/leetcode_questions/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/meghanaN05/leetcode_questions/tree/master/1917-maximum-average-pass-ratio) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/meghanaN05/leetcode_questions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/meghanaN05/leetcode_questions/tree/master/1876-map-of-highest-peak) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/meghanaN05/leetcode_questions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/meghanaN05/leetcode_questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1975-maximum-matrix-sum) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1829-maximum-units-on-a-truck](https://github.com/meghanaN05/leetcode_questions/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/meghanaN05/leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/meghanaN05/leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/meghanaN05/leetcode_questions/tree/master/1688-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/meghanaN05/leetcode_questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/meghanaN05/leetcode_questions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/meghanaN05/leetcode_questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/meghanaN05/leetcode_questions/tree/master/1925-count-square-sum-triples) |
@@ -1449,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/meghanaN05/leetcode_questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/meghanaN05/leetcode_questions/tree/master/1753-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/meghanaN05/leetcode_questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/meghanaN05/leetcode_questions/tree/master/2054-two-best-non-overlapping-events) |
@@ -1632,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/meghanaN05/leetcode_questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/meghanaN05/leetcode_questions/tree/master/1833-find-the-highest-altitude) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/meghanaN05/leetcode_questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1895-largest-magic-square](https://github.com/meghanaN05/leetcode_questions/tree/master/1895-largest-magic-square) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
