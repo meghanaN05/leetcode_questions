@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/meghanaN05/leetcode_questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/meghanaN05/leetcode_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/meghanaN05/leetcode_questions/tree/master/2643-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/meghanaN05/leetcode_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1655,6 +1657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/meghanaN05/leetcode_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3311-ant-on-the-boundary](https://github.com/meghanaN05/leetcode_questions/tree/master/3311-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
