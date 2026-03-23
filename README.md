@@ -2277,6 +2277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/meghanaN05/leetcode_questions/tree/master/0196-delete-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/meghanaN05/leetcode_questions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/meghanaN05/leetcode_questions/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/meghanaN05/leetcode_questions/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/meghanaN05/leetcode_questions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/meghanaN05/leetcode_questions/tree/master/0620-not-boring-movies) |
