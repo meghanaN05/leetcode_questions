@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/meghanaN05/leetcode_questions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanaN05/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/meghanaN05/leetcode_questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/meghanaN05/leetcode_questions/tree/master/2643-row-with-maximum-ones) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanaN05/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/meghanaN05/leetcode_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-maximum-achievable-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2812-find-the-maximum-achievable-number) |
 | [2864-maximum-odd-binary-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2864-maximum-odd-binary-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanaN05/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1413,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/meghanaN05/leetcode_questions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanaN05/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3311-ant-on-the-boundary](https://github.com/meghanaN05/leetcode_questions/tree/master/3311-ant-on-the-boundary) |
 | [3336-water-bottles-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/meghanaN05/leetcode_questions/tree/master/3379-transformed-array) |
