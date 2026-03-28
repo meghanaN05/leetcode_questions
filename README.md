@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/meghanaN05/leetcode_questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/meghanaN05/leetcode_questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
 | [2032-two-out-of-three](https://github.com/meghanaN05/leetcode_questions/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/meghanaN05/leetcode_questions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -1325,6 +1327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/meghanaN05/leetcode_questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-design-movie-rental-system](https://github.com/meghanaN05/leetcode_questions/tree/master/2023-design-movie-rental-system) |
 | [2032-two-out-of-three](https://github.com/meghanaN05/leetcode_questions/tree/master/2032-two-out-of-three) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
