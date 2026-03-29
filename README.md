@@ -1037,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/meghanaN05/leetcode_questions/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2864-maximum-odd-binary-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2976-minimum-cost-to-convert-string-i) |
