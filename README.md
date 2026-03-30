@@ -969,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/meghanaN05/leetcode_questions/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
+| [0925-long-pressed-name](https://github.com/meghanaN05/leetcode_questions/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/meghanaN05/leetcode_questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/0953-reverse-only-letters) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1213,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/0908-middle-of-the-linked-list) |
+| [0925-long-pressed-name](https://github.com/meghanaN05/leetcode_questions/tree/master/0925-long-pressed-name) |
 | [0941-sort-array-by-parity](https://github.com/meghanaN05/leetcode_questions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0958-sort-array-by-parity-ii) |
