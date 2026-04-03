@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/meghanaN05/leetcode_questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0876-hand-of-straights](https://github.com/meghanaN05/leetcode_questions/tree/master/0876-hand-of-straights) |
+| [0877-stone-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/meghanaN05/leetcode_questions/tree/master/0907-koko-eating-bananas) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/meghanaN05/leetcode_questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/meghanaN05/leetcode_questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0908-smallest-range-i) |
 | [0910-nth-magical-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0910-nth-magical-number) |
 | [0973-k-closest-points-to-origin](https://github.com/meghanaN05/leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
@@ -1617,6 +1619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/meghanaN05/leetcode_questions/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/meghanaN05/leetcode_questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/meghanaN05/leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/meghanaN05/leetcode_questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -2209,6 +2212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1086-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/meghanaN05/leetcode_questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
