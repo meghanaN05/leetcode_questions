@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/meghanaN05/leetcode_questions/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/meghanaN05/leetcode_questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1217-relative-sort-array) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/meghanaN05/leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/meghanaN05/leetcode_questions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/meghanaN05/leetcode_questions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/1018-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/meghanaN05/leetcode_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1086-divisor-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1086-divisor-game) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/meghanaN05/leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1236-n-th-tribonacci-number](https://github.com/meghanaN05/leetcode_questions/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/meghanaN05/leetcode_questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1978,6 +1980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/meghanaN05/leetcode_questions/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/meghanaN05/leetcode_questions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/meghanaN05/leetcode_questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/meghanaN05/leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/meghanaN05/leetcode_questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1382-balance-a-binary-search-tree) |
