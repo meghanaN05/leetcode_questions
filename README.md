@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/meghanaN05/leetcode_questions/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/meghanaN05/leetcode_questions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0874-walking-robot-simulation](https://github.com/meghanaN05/leetcode_questions/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/meghanaN05/leetcode_questions/tree/master/0876-hand-of-straights) |
 | [0877-stone-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/meghanaN05/leetcode_questions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -1307,6 +1308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/meghanaN05/leetcode_questions/tree/master/0822-unique-morse-code-words) |
+| [0874-walking-robot-simulation](https://github.com/meghanaN05/leetcode_questions/tree/master/0874-walking-robot-simulation) |
 | [0876-hand-of-straights](https://github.com/meghanaN05/leetcode_questions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1419,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/meghanaN05/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
+| [0874-walking-robot-simulation](https://github.com/meghanaN05/leetcode_questions/tree/master/0874-walking-robot-simulation) |
 | [0983-validate-stack-sequences](https://github.com/meghanaN05/leetcode_questions/tree/master/0983-validate-stack-sequences) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/meghanaN05/leetcode_questions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
