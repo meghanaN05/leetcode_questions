@@ -807,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/meghanaN05/leetcode_questions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/meghanaN05/leetcode_questions/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/meghanaN05/leetcode_questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meghanaN05/leetcode_questions/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/meghanaN05/leetcode_questions/tree/master/0372-super-pow) |
@@ -2223,6 +2224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1086-divisor-game) |
@@ -2311,6 +2313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1086-divisor-game) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/meghanaN05/leetcode_questions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2481-strictly-palindromic-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2481-strictly-palindromic-number) |
