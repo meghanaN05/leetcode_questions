@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/meghanaN05/leetcode_questions/tree/master/1803-average-waiting-time) |
 | [1813-maximum-erasure-value](https://github.com/meghanaN05/leetcode_questions/tree/master/1813-maximum-erasure-value) |
+| [1817-finding-the-users-active-minutes](https://github.com/meghanaN05/leetcode_questions/tree/master/1817-finding-the-users-active-minutes) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/meghanaN05/leetcode_questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/meghanaN05/leetcode_questions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/meghanaN05/leetcode_questions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -1346,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/meghanaN05/leetcode_questions/tree/master/1813-maximum-erasure-value) |
+| [1817-finding-the-users-active-minutes](https://github.com/meghanaN05/leetcode_questions/tree/master/1817-finding-the-users-active-minutes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/meghanaN05/leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/meghanaN05/leetcode_questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
