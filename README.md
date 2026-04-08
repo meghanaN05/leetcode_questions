@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/meghanaN05/leetcode_questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3647-zero-array-transformation-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/3647-zero-array-transformation-iii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3721-longest-balanced-subarray-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/meghanaN05/leetcode_questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1465,6 +1466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/meghanaN05/leetcode_questions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3811-reverse-degree-of-a-string) |
@@ -2111,6 +2113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/meghanaN05/leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
 |  |
