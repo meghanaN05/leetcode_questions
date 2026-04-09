@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/meghanaN05/leetcode_questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/meghanaN05/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/meghanaN05/leetcode_questions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0503-next-greater-element-ii) |
@@ -1121,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/meghanaN05/leetcode_questions/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0306-additive-number) |
 | [0473-matchsticks-to-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
 | [0756-pyramid-transition-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0756-pyramid-transition-matrix) |
 | [0784-letter-case-permutation](https://github.com/meghanaN05/leetcode_questions/tree/master/0784-letter-case-permutation) |
@@ -1640,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/meghanaN05/leetcode_questions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0542-01-matrix) |
 | [0638-shopping-offers](https://github.com/meghanaN05/leetcode_questions/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
