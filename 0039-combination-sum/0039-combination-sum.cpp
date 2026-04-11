@@ -1,26 +1,20 @@
 class Solution {
-    vector<vector<int>>combinations;
-    vector<int>CurrSub;
-    void  backtrack(int index,int target,vector<int>& candidates){
-        if(target==0){
-            combinations.push_back(CurrSub);
-            return;
-        }
-        if(index==candidates.size()|| target<0){
-            return ;
-        }
-        //you are not choosing the elemt
-        backtrack(index+1,target,candidates);
-        // you are choosing the elemt
-        CurrSub.push_back(candidates[index]);
-        backtrack(index,target-candidates[index],candidates);
-        CurrSub.pop_back();
-        
-}
 public:
+vector<vector<int>>ans;
+vector<int>curr;
+void solve(int i,vector<int>& candidates, int target){
+    if(target==0){
+        ans.push_back(curr);
+        return;
+    }
+    if(i==candidates.size() || target<0) return;
+     solve(i+1,candidates,target);
+     curr.push_back(candidates[i]);
+    solve(i,candidates,target-candidates[i]);
+     curr.pop_back();
+}
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        backtrack(0,target,candidates);
-        return combinations;
-         
+         solve(0,candidates,target);
+         return ans;
     }
 };
