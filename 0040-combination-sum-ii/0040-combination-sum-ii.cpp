@@ -1,32 +1,24 @@
 class Solution {
 public:
-    vector<vector<int>> combinations;
-    vector<int> Currsub;
-    
-    void backtrack(int index, int sum, int n, vector<int>& candidates, int target) {
-        if (sum == target) {
-            combinations.push_back(Currsub);
+    vector<vector<int>> ans;
+    vector<int> curr;
+    void solve(int start, vector<int>& candidates, int target) {
+        if (target == 0) {
+            ans.push_back(curr);
             return;
         }
-        if (sum > target || index >= n) return;
-        
-        for (int i = index; i < n; ++i) {
-            // Skip duplicates
-            if (i > index && candidates[i] == candidates[i - 1]) continue;
-
-            // Choose the current element
-            Currsub.push_back(candidates[i]);
-            backtrack(i + 1, sum + candidates[i], n, candidates, target);
-            Currsub.pop_back(); // Backtrack
+        for (int i = start; i < candidates.size(); i++) {
+            if (i > start && candidates[i] == candidates[i - 1]) continue;
+            if (candidates[i] > target) break;
+            curr.push_back(candidates[i]);
+            solve(i + 1, candidates, target - candidates[i]); 
+            curr.pop_back();
         }
     }
-    
+
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        int n = candidates.size();
-        sort(candidates.begin(), candidates.end()); // Sort to handle duplicates
-        combinations.clear();
-        Currsub.clear();
-        backtrack(0, 0, n, candidates, target);
-        return combinations;
+        sort(candidates.begin(), candidates.end());
+        solve(0, candidates, target);
+        return ans;
     }
 };
