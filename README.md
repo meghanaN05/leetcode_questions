@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/meghanaN05/leetcode_questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/meghanaN05/leetcode_questions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/meghanaN05/leetcode_questions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/meghanaN05/leetcode_questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1975-maximum-matrix-sum) |
@@ -1044,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/meghanaN05/leetcode_questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/meghanaN05/leetcode_questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/meghanaN05/leetcode_questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/meghanaN05/leetcode_questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/meghanaN05/leetcode_questions/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1980-find-unique-binary-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1980-find-unique-binary-string) |
@@ -1258,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/meghanaN05/leetcode_questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meghanaN05/leetcode_questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/meghanaN05/leetcode_questions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/meghanaN05/leetcode_questions/tree/master/2265-partition-array-according-to-given-pivot) |
