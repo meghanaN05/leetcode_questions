@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-find-words-containing-character](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3206-alternating-groups-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3206-alternating-groups-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/meghanaN05/leetcode_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -2115,6 +2116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/meghanaN05/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3206-alternating-groups-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3206-alternating-groups-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/meghanaN05/leetcode_questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
