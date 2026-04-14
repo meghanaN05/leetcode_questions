@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/meghanaN05/leetcode_questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/meghanaN05/leetcode_questions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0766-toeplitz-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/meghanaN05/leetcode_questions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/meghanaN05/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/meghanaN05/leetcode_questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/meghanaN05/leetcode_questions/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0766-toeplitz-matrix) |
 | [0794-swim-in-rising-water](https://github.com/meghanaN05/leetcode_questions/tree/master/0794-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/meghanaN05/leetcode_questions/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/meghanaN05/leetcode_questions/tree/master/0945-snakes-and-ladders) |
