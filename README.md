@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/meghanaN05/leetcode_questions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1034-subarrays-with-k-different-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/meghanaN05/leetcode_questions/tree/master/1036-rotting-oranges) |
+| [1036-escape-a-large-maze](https://github.com/meghanaN05/leetcode_questions/tree/master/1036-escape-a-large-maze) |
 | [1044-find-common-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/meghanaN05/leetcode_questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/meghanaN05/leetcode_questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/meghanaN05/leetcode_questions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-escape-a-large-maze](https://github.com/meghanaN05/leetcode_questions/tree/master/1036-escape-a-large-maze) |
 | [1073-number-of-enclaves](https://github.com/meghanaN05/leetcode_questions/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1302-deepest-leaves-sum) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/meghanaN05/leetcode_questions/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/meghanaN05/leetcode_questions/tree/master/1036-rotting-oranges) |
+| [1036-escape-a-large-maze](https://github.com/meghanaN05/leetcode_questions/tree/master/1036-escape-a-large-maze) |
 | [1073-number-of-enclaves](https://github.com/meghanaN05/leetcode_questions/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/1302-deepest-leaves-sum) |
@@ -1347,6 +1350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/meghanaN05/leetcode_questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-escape-a-large-maze](https://github.com/meghanaN05/leetcode_questions/tree/master/1036-escape-a-large-maze) |
 | [1044-find-common-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/meghanaN05/leetcode_questions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
