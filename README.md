@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanaN05/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/meghanaN05/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/meghanaN05/leetcode_questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanaN05/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/meghanaN05/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/meghanaN05/leetcode_questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/meghanaN05/leetcode_questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/meghanaN05/leetcode_questions/tree/master/2864-maximum-odd-binary-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/meghanaN05/leetcode_questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanaN05/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2965-find-missing-and-repeated-values](https://github.com/meghanaN05/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2998-count-symmetric-integers](https://github.com/meghanaN05/leetcode_questions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/meghanaN05/leetcode_questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1415,6 +1418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2915-count-of-interesting-subarrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/meghanaN05/leetcode_questions/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/meghanaN05/leetcode_questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/meghanaN05/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
