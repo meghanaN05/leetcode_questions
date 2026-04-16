@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/meghanaN05/leetcode_questions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/meghanaN05/leetcode_questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/meghanaN05/leetcode_questions/tree/master/1396-count-servers-that-communicate) |
@@ -1027,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/meghanaN05/leetcode_questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/meghanaN05/leetcode_questions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/meghanaN05/leetcode_questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/meghanaN05/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/meghanaN05/leetcode_questions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/meghanaN05/leetcode_questions/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -1364,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/meghanaN05/leetcode_questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/meghanaN05/leetcode_questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/meghanaN05/leetcode_questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/meghanaN05/leetcode_questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/meghanaN05/leetcode_questions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/meghanaN05/leetcode_questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
