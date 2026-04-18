@@ -1,12 +1,15 @@
 class Solution {
 public:
-  int rev(int n){
-    string s=to_string(n);
-    reverse(s.begin(),s.end());
-    return stoi(s);
-  }
+   int rev(int n){
+    int rr=0;
+    while(n!=0){
+        int digit=n%10;
+        rr=rr*10+digit;
+        n=n/10;
+    }
+    return rr;
+   }
     int mirrorDistance(int n) {
-        int nn=rev(n);
-      return   abs(n-nn);
+        return abs(n-rev(n));
     }
 };
