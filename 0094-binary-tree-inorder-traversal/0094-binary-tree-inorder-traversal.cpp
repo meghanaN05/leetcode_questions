@@ -11,16 +11,15 @@
  */
 class Solution {
 public:
+void helper(TreeNode* root, vector<int>& ans) {
+        if (root == NULL) return;
+        helper(root->left, ans); 
+        ans.push_back(root->val);   
+        helper(root->right, ans);  
+    }
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int>ans;
-        if(root==nullptr){
-            return ans;
-        }
-        vector<int>left=inorderTraversal(root->left);
-        ans.insert(ans.end(),left.begin(),left.end());
-        ans.push_back(root->val);
-         vector<int>right=inorderTraversal(root->right);
-        ans.insert(ans.end(),right.begin(),right.end());
+        vector<int> ans;
+        helper(root, ans);
         return ans;
     }
 };
