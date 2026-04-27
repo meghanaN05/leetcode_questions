@@ -1015,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/meghanaN05/leetcode_questions/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/meghanaN05/leetcode_questions/tree/master/0782-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/meghanaN05/leetcode_questions/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0796-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/meghanaN05/leetcode_questions/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/meghanaN05/leetcode_questions/tree/master/0841-shortest-distance-to-a-character) |
@@ -2316,6 +2317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/meghanaN05/leetcode_questions/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/meghanaN05/leetcode_questions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1524-string-matching-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/meghanaN05/leetcode_questions/tree/master/1764-maximum-repeating-substring) |
