@@ -13,7 +13,7 @@ class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
         int diameter=0;
-        height(root,diameter);
+        int ans=height(root,diameter);
         return diameter;
     }
     int height(TreeNode* root,int& diameter){
