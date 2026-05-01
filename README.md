@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/meghanaN05/leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/meghanaN05/leetcode_questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/meghanaN05/leetcode_questions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/meghanaN05/leetcode_questions/tree/master/0414-third-maximum-number) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/meghanaN05/leetcode_questions/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/meghanaN05/leetcode_questions/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0390-elimination-game) |
+| [0396-rotate-function](https://github.com/meghanaN05/leetcode_questions/tree/master/0396-rotate-function) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/meghanaN05/leetcode_questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/meghanaN05/leetcode_questions/tree/master/0486-predict-the-winner) |
@@ -1684,6 +1686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/meghanaN05/leetcode_questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/meghanaN05/leetcode_questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/meghanaN05/leetcode_questions/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/meghanaN05/leetcode_questions/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/meghanaN05/leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/meghanaN05/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
