@@ -853,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/meghanaN05/leetcode_questions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/meghanaN05/leetcode_questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/0788-rotated-digits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/meghanaN05/leetcode_questions/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/meghanaN05/leetcode_questions/tree/master/0797-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/meghanaN05/leetcode_questions/tree/master/0877-stone-game) |
@@ -1699,6 +1700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/meghanaN05/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/meghanaN05/leetcode_questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/meghanaN05/leetcode_questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/meghanaN05/leetcode_questions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/meghanaN05/leetcode_questions/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/meghanaN05/leetcode_questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/meghanaN05/leetcode_questions/tree/master/0868-push-dominoes) |
