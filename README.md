@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/meghanaN05/leetcode_questions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-apply-operations-to-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/meghanaN05/leetcode_questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/meghanaN05/leetcode_questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2643-row-with-maximum-ones](https://github.com/meghanaN05/leetcode_questions/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/meghanaN05/leetcode_questions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -1516,6 +1517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/meghanaN05/leetcode_questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/meghanaN05/leetcode_questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2551-apply-operations-to-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/meghanaN05/leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/meghanaN05/leetcode_questions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2751-robot-collisions](https://github.com/meghanaN05/leetcode_questions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/meghanaN05/leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
