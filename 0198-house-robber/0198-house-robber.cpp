@@ -1,5 +1,6 @@
 class Solution {
 public:
+//memorization code
    int solve(int i,vector<int>&memo,vector<int>& nums,int n){
     if(i>=n) return 0;
     if(memo[i]!=-1) return memo[i];
