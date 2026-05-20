@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/meghanaN05/leetcode_questions/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/meghanaN05/leetcode_questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/meghanaN05/leetcode_questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/meghanaN05/leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/meghanaN05/leetcode_questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/meghanaN05/leetcode_questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/meghanaN05/leetcode_questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3567-convert-date-to-binary](https://github.com/meghanaN05/leetcode_questions/tree/master/3567-convert-date-to-binary) |
 | [3606-coupon-code-validator](https://github.com/meghanaN05/leetcode_questions/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3617-find-the-original-typed-string-i) |
@@ -1471,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/meghanaN05/leetcode_questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/meghanaN05/leetcode_questions/tree/master/3531-count-covered-buildings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/meghanaN05/leetcode_questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meghanaN05/leetcode_questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/meghanaN05/leetcode_questions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
