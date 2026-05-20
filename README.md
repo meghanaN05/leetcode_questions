@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/meghanaN05/leetcode_questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/meghanaN05/leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
