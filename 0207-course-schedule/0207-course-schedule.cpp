@@ -1,34 +1,45 @@
 class Solution {
 public:
-    bool canFinish(int V, vector<vector<int>>&edges) {
-         vector<int> adj[V];
-        for (auto &e : edges) {
-            adj[e[0]].push_back(e[1]);
-        }
-        vector<int> indegree(V, 0);
-        for (int i = 0; i < V; i++) {
-            for (int neigh : adj[i]) {
-                indegree[neigh]++;
+//dfs approch-without using in degree
+    bool dfs(int node, vector<vector<int>>& adj,
+             vector<int>& vis, vector<int>& pathVis)
+    {
+        vis[node] = 1;
+        pathVis[node] = 1;
+        for (auto it : adj[node])
+        {
+            if (!vis[it])
+            {
+                if (dfs(it, adj, vis, pathVis))
+                    return true;
+            }
+            else if (pathVis[it])
+            {
+                return true;
             }
         }
-        queue<int> q;
-        for (int i = 0; i < V; i++) {
-            if (indegree[i] == 0)
-                q.push(i);
-        }
-       int cnt=0;
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
-            cnt++;
-            for (int neigh : adj[node]) {
-                indegree[neigh]--;
-                if (indegree[neigh] == 0)
-                    q.push(neigh);
-            }
-        }
+        pathVis[node] = 0;
+        return false;
+    }
 
-       if(cnt==V) return true;
-       return false;
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        vector<vector<int>> adj(numCourses);
+        for (auto it : prerequisites)
+        {
+            int a = it[0];
+            int b = it[1];
+            adj[b].push_back(a);
+        }
+        vector<int> vis(numCourses, 0);
+        vector<int> pathVis(numCourses, 0);
+        for (int i = 0; i < numCourses; i++)
+        {
+            if (!vis[i])
+            {
+                if (dfs(i, adj, vis, pathVis))
+                    return false;
+            }
+        }
+        return true;
     }
 };
