@@ -1,16 +1,20 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        set<char>l;
-        set<char>u;
-        for(int i=0;i<word.size();i++){
-            if(word[i]>='a' && word[i]<='z') l.insert(word[i]);
-            if(word[i]>='A' && word[i]<='Z') u.insert(word[i]);
+        int n=word.size();
+        map<char,int>m;
+        for(int i=0;i<n;i++){
+            m[word[i]]++;
         }
-        int cnt=0;
-        for(auto it:l){
-          if(u.find(toupper(it))!=u.end()) cnt++;
+        int count=0;
+        for(int i=0;i<n;i++){
+            if(word[i]>='a' && word[i]<='z' && m[word[i]]>0){
+                if(m[word[i]]>=1 && m[toupper(word[i])]>=1){
+                    count++;
+                    m[word[i]]=0;
+                }
+            }
         }
-        return cnt;
+        return count;
     }
 };
