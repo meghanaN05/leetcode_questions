@@ -1132,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/meghanaN05/leetcode_questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/meghanaN05/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/meghanaN05/leetcode_questions/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/meghanaN05/leetcode_questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1478,6 +1479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/meghanaN05/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/meghanaN05/leetcode_questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/meghanaN05/leetcode_questions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/meghanaN05/leetcode_questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/meghanaN05/leetcode_questions/tree/master/3242-count-elements-with-maximum-frequency) |
